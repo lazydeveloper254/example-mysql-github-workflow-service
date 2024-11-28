@@ -1,4 +1,4 @@
-name: Forest CI
+name: Forest CI 
 env:
   MYSQL_DATABASE: test_forest
   MYSQL_USER: test_user
